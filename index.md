@@ -1,3 +1,9 @@
+#Ludwigs's First CS193 Homework
+##Things I like CS 193
+1. CS 193 isn't in the morning
+2. I like latex :)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

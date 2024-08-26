@@ -1,5 +1,5 @@
-#Ludwigs's First CS193 Homework
-##Things I like CS 193
+# Ludwigs's First CS193 Homework
+## Things I like CS 193:
 1. CS 193 isn't in the morning
 2. I like latex :)
 
